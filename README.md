@@ -25,6 +25,8 @@ Fornecer uma visão clara e dinâmica sobre o desempenho de vendas de diferentes
 ## 📈 Resultado Esperado
 
 Com este dashboard, é possível identificar os produtos mais vendidos, detectar quedas de desempenho e obter insights para otimizar estratégias de venda.
+
+
 ![Dashboard de Vendas](dashboard_vendas_2024.png.png)
 
 ---
